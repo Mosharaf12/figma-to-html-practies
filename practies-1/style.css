@@ -1,0 +1,27 @@
+.body{
+font-family: 'Work Sans', sans-serif;
+}
+.manu-name{
+    color: var(--primary, #2947A9);
+    font-family: Work Sans;
+    font-size: 21.952px;
+    font-style: italic;
+    font-weight: 700;
+    line-height: normal;
+}
+.manu-items li{
+    color: var(--neutral-900, #14171F);
+font-family: Work Sans;
+font-size: 13.171px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.manu-items li:last-child{
+    color: var(--secondary, #F9995D);
+font-family: Work Sans;
+font-size: 13.171px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
