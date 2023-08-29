@@ -25,3 +25,102 @@ font-style: normal;
 font-weight: 600;
 line-height: normal;
 }
+.text-content{
+    color: var(--neutral-800, #292E3D);
+    font-family: Work Sans;
+    font-size: 52px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    width: 406.843px;
+}
+.text-head{
+    padding-left: 81.52px;
+}
+.banner-img{
+    background-image: linear-gradient(90deg, rgba(255, 255, 255, 0.90) 16.58%, rgba(255, 255, 255, 0.00) 77.17%),  url('./images/banner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 1054px;
+    height: 472.699px;
+    flex-shrink: 0;
+}
+.short-sec{
+    display: flex;
+width: 304.401px;
+height: 109.76px;
+padding: 14.635px 7.317px 7.317px 7.317px;
+flex-direction: column;
+align-items: center;
+gap: 14.635px;
+flex-shrink: 0;
+border-radius: 1.463px 1.463px 0px 0px;
+background: #3559C7;
+bottom:27.1px;
+right: 0;
+
+}
+.heading-text{
+    color: var(--neutral-white, #FFF);
+text-align: center;
+font-family: Work Sans;
+font-size: 14.635px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.p-text{
+    color: var(--neutral-white, #FFF);
+text-align: center;
+font-family: Work Sans;
+font-size: 17.562px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+width: 228.3px;
+height: 44.636px;
+flex-shrink: 0;
+}
+.arrow-left{
+    display: flex;
+width: 152.2px;
+height: 29.269px;
+padding: 2.927px 14.635px;
+justify-content: center;
+align-items: center;
+gap: 7.317px;
+flex-shrink: 0;
+background: var(--neutral-800, #292E3D);
+color: var(--neutral-white, #FFF);
+text-align: center;
+
+/* Body/default */
+font-family: Work Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+.arrow-right{
+    display: flex;
+width: 151.469px;
+height: 29.269px;
+padding: 2.927px 14.635px;
+justify-content: center;
+align-items: center;
+gap: 7.317px;
+flex-shrink: 0;
+background: var(--neutral-800, #292E3D);
+color: var(--neutral-white, #FFF);
+text-align: center;
+
+/* Body/default */
+font-family: Work Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
